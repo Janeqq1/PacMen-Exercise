@@ -1,0 +1,19 @@
+
+#playarea {
+    width: 1000px;
+    height: 800px;
+    background-color: #0a0a09;
+}
+
+#playfield {
+    z-index: 1;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    background: bisque;
+}
+
+#playcontrol {
+    width: 900px;
+    text-align: right;
+}
